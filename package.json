@@ -1,0 +1,26 @@
+{
+  "name": "js-workspace",
+  "version": "1.0.0",
+  "description": "demo for oocl",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Visualrainy/js-demo.git"
+  },
+  "keywords": [
+    "js",
+    "demo"
+  ],
+  "author": "visual",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Visualrainy/js-demo/issues"
+  },
+  "homepage": "https://github.com/Visualrainy/js-demo#readme",
+  "devDependencies": {
+    "jest": "^25.2.4"
+  }
+}
